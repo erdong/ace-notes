@@ -1,5 +1,24 @@
 # acpnotes
-Alibaba Cloud Certified Professional，ACP
+
+Alibaba Cloud Certified Professional，ACP。阿里云ACP专业认证考试
+
+ACP (阿里云云计算专业认证)是面向使用阿里云云计算产品的架构、开发、运维类人员的专业技术认证，主要涉及阿里云的计算、存储、网络、安全类的核心产品。
+
+[官方 ACP 大纲](https://aliyun-edu-cloud-public.oss-cn-hangzhou.aliyuncs.com/business/阿里云云计算专业认证（ACP级）考试大纲201807.pdf?spm=5176.11489040.1076741.5.463562f7J8qAaO&file=阿里云云计算专业认证（ACP级）考试大纲201807.pdf)
+
+现在摘录如下：
+
+| 知识点 | 试题比例 |
+| --- | --- |
+| 云服务器 | 31% |
+| 弹性伸缩 | 10% |
+| 负载均衡 | 17% |
+| 专有网络 | 9% |
+| 对象存储 | 17% |
+| 内容分发网络 | 3% |
+| 基础安全 | 10% |
+| 云计算通用知识 | 3% |
 
 
-准备复习 ACP 的相关内容，计划在2019年通过该考试。
+**该仓库用来准备复习 ACP 的相关内容，并且作为学习笔记。**
+
