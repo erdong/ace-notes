@@ -1,4 +1,10 @@
-# acpnotes
+# ACP Notes
+
+<p align="center">
+  <a href="https://github.com/erdong/acp-notes/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/erdong/acp-notes.svg?style=popout"></a>
+  <a href="https://github.com/erdong/acp-notes/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/erdong/acp-notes.svg?style=popout"></a>
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en"><img alt="Notes License" src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=popout"></a>
+</p>
 
 Alibaba Cloud Certified Professional，ACP。阿里云ACP专业认证考试
 
@@ -22,3 +28,27 @@ ACP (阿里云云计算专业认证)是面向使用阿里云云计算产品的�
 
 **该仓库用来准备复习 ACP 的相关内容，并且作为学习笔记。**
 
+
+
+# 目录
+
+
+* [第一章  云服务器](ch01-ecs/README.md)
+    * [1.1 云服务器介绍](ch01-ecs/1.1-ecs-introduction.md)
+* [第二章 弹性伸缩](ch02/README.md)
+* [第三章 负载均衡]()
+* [第四章 对象存储]()
+
+
+
+# Feedback
+
+欢迎大家提 [Issue](https://github.com/erdong/acp-notes/issues)
+
+
+# License
+
+
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="启用 CC 授权条款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+本作品采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) 国际许可协议进行许可 。
