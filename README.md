@@ -43,7 +43,9 @@ ACP (阿里云云计算专业认证)是面向使用阿里云云计算产品的�
 
 # Feedback
 
-欢迎大家提 [Issue](https://github.com/erdong/acp-notes/issues)
+这是我的个人 ACP 学习笔记，如果对你有帮助，请你跳转到 [Github ACP Notes](https://github.com/erdong/acp-notes) 点个 Star 。
+
+如果你遇到了问题，欢迎提 [Github Issue](https://github.com/erdong/acp-notes/issues) , 大家一起交流。
 
 
 # License
