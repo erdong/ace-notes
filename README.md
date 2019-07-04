@@ -4,6 +4,7 @@
   <a href="https://github.com/erdong/acp-notes/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/erdong/acp-notes.svg?style=popout"></a>
   <a href="https://github.com/erdong/acp-notes/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/erdong/acp-notes.svg?style=popout"></a>
   <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en"><img alt="Notes License" src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=popout"></a>
+  <a href="https://erdong.site/about/"><img alt="Author" src="https://img.shields.io/badge/Author-Erdong-important.svg?style=popout"></a>
 </p>
 
 Alibaba Cloud Certified Professional，ACP。阿里云ACP专业认证考试
@@ -35,6 +36,8 @@ ACP (阿里云云计算专业认证)是面向使用阿里云云计算产品的�
 
 * [第一章  云服务器](ch01-ecs/README.md)
     * [1.1 云服务器介绍](ch01-ecs/1.1-ecs-introduction.md)
+    * [1.2 实例](ch01-ecs/1.2-instance.md)
+    * [1.3 网络](ch01-ecs/1.3-network.md)
 * [第二章 弹性伸缩](ch02/README.md)
 * [第三章 负载均衡]()
 * [第四章 对象存储]()
