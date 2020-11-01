@@ -42,9 +42,9 @@ Alibaba Cloud Certified Expert，ACE。阿里云ACE专业认证考试
 
 # Feedback
 
-这是我的个人 ACP 学习笔记，如果对你有帮助，请你跳转到 [Github ACP Notes](https://github.com/erdong/acp-notes) 点个 Star 。
+这是我的个人 ACE 学习笔记，如果对你有帮助，请你跳转到 [Github ACE Notes](https://github.com/erdong/ace-notes) 点个 Star 。
 
-如果你遇到了问题，欢迎提 [Github Issue](https://github.com/erdong/acp-notes/issues) , 大家一起交流。
+如果你遇到了问题，欢迎提 [Github Issue](https://github.com/erdong/ace-notes/issues) , 大家一起交流。
 
 
 # License
