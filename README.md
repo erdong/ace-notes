@@ -1,4 +1,4 @@
-# ACP Notes
+# ACE Notes
 
 <p align="center">
   <a href="https://github.com/erdong/acp-notes/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/erdong/acp-notes.svg?style=popout"></a>
@@ -7,27 +7,20 @@
   <a href="https://erdong.site/about/"><img alt="Author" src="https://img.shields.io/badge/Author-Erdong-important.svg?style=popout"></a>
 </p>
 
-Alibaba Cloud Certified Professional，ACP。阿里云ACP专业认证考试
+Alibaba Cloud Certified Expert，ACE。阿里云ACE专业认证考试
 
-ACP (阿里云云计算专业认证)是面向使用阿里云云计算产品的架构、开发、运维类人员的专业技术认证，主要涉及阿里云的计算、存储、网络、安全类的核心产品。
+阿里云云算架构师认证(ACE -- Alibaba Cloud Certification Expert)专家级，是针对决方案架构师角色的个人考试，通过该技术认证可以有效证明该认证人员具备以下能力:
 
-[官方 ACP 大纲](https://aliyun-edu-cloud-public.oss-cn-hangzhou.aliyuncs.com/business/阿里云云计算专业认证（ACP级）考试大纲201807.pdf?spm=5176.11489040.1076741.5.463562f7J8qAaO&file=阿里云云计算专业认证（ACP级）考试大纲201807.pdf)
-
-现在摘录如下：
-
-| 知识点 | 试题比例 |
-| --- | --- |
-| 云服务器 | 31% |
-| 弹性伸缩 | 10% |
-| 负载均衡 | 17% |
-| 专有网络 | 9% |
-| 对象存储 | 17% |
-| 内容分发网络 | 3% |
-| 基础安全 | 10% |
-| 云计算通用知识 | 3% |
+* 识别并收集需求，以便合理的使用阿里云产品构建阿里云角色架构解决方案。
+* 能够根据企业的业务需求，基于阿里云的产品引入新服务和功能，制定有效的技术解决方案和企业最佳实践，最大限度地提高可扩展性，安全性，可靠性，耐用性和成本效益等特性
+* 能够针对在阿里云中部署的应用程序进行架构选型和影响范围评估
+* 能够诊断基于阿里云云计算产品构建的业务系统在运行中出现的常见问题并找到相应的解决方案
+* 在项目的生命周期中提供最佳实践和架构指导
 
 
-**该仓库用来准备复习 ACP 的相关内容，并且作为学习笔记。**
+阿里云 ACE 认证内容请查看 [ACE 认证说明](chapter00/0.2-aliyun-certified.md)
+
+**该仓库用来准备复习 ACE 的相关内容，并且作为学习笔记。**
 
 
 
