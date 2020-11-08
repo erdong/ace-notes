@@ -18,11 +18,20 @@ Alibaba Cloud Certified Expert，ACE。阿里云ACE专业认证考试
 * 在项目的生命周期中提供最佳实践和架构指导
 
 
-阿里云 ACE 认证内容请查看 [ACE 认证说明](chapter00/0.2-aliyun-certified.md)
+阿里云 ACE 认证内容请查看 [ACE 认证说明](chapter00/0.2-aliyun-certified-expert.md)
 
 **该仓库用来准备复习 ACE 的相关内容，并且作为学习笔记。**
 
+# ACE 认证考试范围
 
+* 弹性计算与网络设计
+* 阿里云系统高可用与容灾
+* 阿里云应用部署与管理
+* 阿里云大数据
+* 阿里云数据库与存储
+* 阿里云安全方案
+* 云迁移、混合云与专有云
+* 阿里云中间件
 
 # 目录
 
@@ -31,12 +40,25 @@ Alibaba Cloud Certified Expert，ACE。阿里云ACE专业认证考试
     * [1.1 云服务器介绍](chapter01-ecs/1.1-ecs-introduction.md)
     * [1.2 实例](chapter01-ecs/1.2-instance.md)
     * [1.3 网络](chapter01-ecs/1.3-network.md)
+    * [1.4 地域和可用区](chapter01-ecs/1.4-region.md)
+    * [1.5 安全组](chapter01-ecs/1.5-security-policy.md)
+    * [1.6 使用和管理](chapter01-ecs/1.6-usage-management.md)
+    * [1.7 计费](chapter01-ecs/1.7-pricing.md)
+    
 * [第二章 弹性伸缩](chapter02-autoscaling/README.md)
 * [第三章 负载均衡](chapter03-slb/README.md)
 * [第四章 对象存储](chapter04-oss/README.md)
 * [第五章 专有网络](chapter05-vpc/README.md)
 * [第六章 内容分发网络](chapter06-cdn/README.md)
-* [第七章 基础安全](chapter07-/README.md)
+* [第七章 云数据库](chapter07-rds/README.md)
+* [第八章 基础安全](chapter08-/README.md)
+
+
+
+
+
+
+
 
 
 

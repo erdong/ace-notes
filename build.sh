@@ -1,6 +1,6 @@
 #!/bin/bash
-gitbook build
 rm -rf docs
 echo "del docs"
-mv _book docs
+gitbook build ./ ./docs
+
 echo "add docs"
