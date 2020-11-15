@@ -44,8 +44,8 @@ Alibaba Cloud Certified Expert，ACE。阿里云ACE专业认证考试
     * [1.5 安全组](chapter01-ecs/1.5-security-policy.md)
     * [1.6 使用和管理](chapter01-ecs/1.6-usage-management.md)
     * [1.7 计费](chapter01-ecs/1.7-pricing.md)
-    
-* [第二章 弹性伸缩](chapter02-autoscaling/README.md)
+
+* [第二章 弹性伸缩](chapter02-as/README.md)
 * [第三章 负载均衡](chapter03-slb/README.md)
 * [第四章 对象存储](chapter04-oss/README.md)
 * [第五章 专有网络](chapter05-vpc/README.md)
